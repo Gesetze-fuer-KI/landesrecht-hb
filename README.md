@@ -35,4 +35,7 @@ Wer die Gesetze von Hand im Browser liest, kommt also durch, ein freies, gemeinn
 > Mit freundlichen Grüßen\
 > [Name]
 
-Bis dahin: [Landesrecht Bremen von Hand lesen](https://www.transparenz.bremen.de) · [gesetze-fuer-ki.de](https://gesetze-fuer-ki.de)
+## Bis dahin
+
+- **[Landesrecht Bremen auf dem Landesportal](https://www.transparenz.bremen.de)**: von Hand im Browser lesen.
+- **[gesetze-fuer-ki.de](https://gesetze-fuer-ki.de)**: Bundesrecht und das Landesrecht der Länder, die den Abruf erlauben, für Ihren KI-Assistenten.
